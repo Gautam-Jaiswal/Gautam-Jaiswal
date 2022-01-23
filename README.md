@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gautam
+- 👋 Hi, I’m <b>Gautam</b>
 - So, Let me give you a breif introduction of myself,<br>
       I am an aspiring Data Scientist and a Competetive Coder.<br>
       Currently I am learning Machine Learning and Deep Learning.<br>
