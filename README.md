@@ -13,4 +13,4 @@
    ### IT'S NEVER TOO LATE TOO START<br>
 - 📫 Reach me on mail:- gautamjaiswal4929@gmail.com<br>
 - 📑 LinkedIn:- https://www.linkedin.com/in/gautam-jaiswal-53a644180/<br>
-<img src="https://m.economictimes.com/thumb/msid-78496877,width-1200,height-900,resizemode-4,imgsize-215553/ai-getty.jpg">
+<img src="https://emerj.com/wp-content/uploads/2018/04/how-to-cut-through-the-artificial-intelligence-hype-three-simple-rules-of-thumb.png">
